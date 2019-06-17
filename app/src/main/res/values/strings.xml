@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XAMA Beauty Place</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="lokasi">Detail</string>
+    <string name="type">Tipe</string>
+    <string name="didirikan">Didirikan</string>
+    <string name="kordinat">Kordinat</string>
+</resources>
